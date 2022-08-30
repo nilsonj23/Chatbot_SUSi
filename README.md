@@ -1,5 +1,6 @@
 # **Chatbot SUSi-Carioca**: 
-*Repositório do código do Controlador do Chatbot SUSi-Carioca para o Trabalho de Conclusão de Curso, com o tema:* 
+*Repositório do código do Controlador do Chatbot SUSi-Carioca para o Trabalho de Conclusão de Curso, com o tema:*
+
 <img src="https://www.uerj.br/wp-content/uploads/2017/09/logo_uerj_pb.jpg" width="200"/>
 
 ## *"SUSi-Carioca: Chatbot de pós-atendimento das consultas no SUS utilizando práticas de Linguagem Simples"*
